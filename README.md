@@ -1,8 +1,16 @@
 Emotion_Detection
 ==============================
 
-Emotion Detection from text
-
+* Install cookiecutter in your local machine
+* Move where you want to create cookiecutter project(cd Desktop)
+* create project structure from this command 'cookiecutter https://github.com/drivendata/cookiecutter-data-science'
+* cd projectfolder
+* git init(initialize the reposiory)
+* git add .
+* git status
+* git commit -m 'you message'
+* git remote add origin 'your_url_name(.git)'
+* git push -u origin master
 Project Organization
 ------------
 
